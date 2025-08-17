@@ -1056,9 +1056,11 @@ footer > :last-child > ul > li {
     object-fit: cover;
   }
   section:nth-of-type(5) > div .box {
+    width: 85%;
     flex-direction: column;
     gap: 2rem;
     text-align: center;
+    transform: rotate(0);
   }
 
   section:nth-of-type(6) > div > h1 {
